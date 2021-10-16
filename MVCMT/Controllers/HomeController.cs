@@ -11,6 +11,7 @@ namespace MVCMT.Controllers
         // GET: Home
         public ActionResult Index()
         {
+            // Test add new code
             return View();
         }
     }
