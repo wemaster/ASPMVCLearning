@@ -11,6 +11,7 @@ namespace WebMVC.Controllers
         // GET: Home
         public ActionResult Index()
         {
+            //New comment
             return View();
         }
     }
